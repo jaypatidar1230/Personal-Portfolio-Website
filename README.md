@@ -18,8 +18,6 @@ Once installed, users can explore the website to learn more about Jay Patel and 
 Contributing:
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests. Please follow the existing code style and structure.
 
-License:
-This project is licensed under the MIT License.
 
 Credits:
 
